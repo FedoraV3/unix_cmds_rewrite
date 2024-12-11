@@ -1,0 +1,8 @@
+[package]
+name = "unix_cmds_rewrite"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sysinfo = "0.33.0"
+cargo-license = "0.6.1"
